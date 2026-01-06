@@ -51,7 +51,6 @@ Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface 
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/WPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
