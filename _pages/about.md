@@ -17,7 +17,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉 One paper is accepted by Pattern Recognition.  
+- *2025.12*: &nbsp; One paper is accepted by Pattern Recognition.  
 
 # 📝 Publications 
 
