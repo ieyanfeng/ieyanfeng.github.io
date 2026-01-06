@@ -31,7 +31,7 @@ My research interest includes salient object detection.
 <div class='paper-box-text' markdown="1">
   
 Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection<br>
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf) | [Code](https://github.com/iefengyan/WPFormer)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325015560) | [Code](https://github.com/iefengyan/GCRANet)
   
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Lisha Cui, Jiale Cao, Mingliang Xu
 
@@ -55,7 +55,7 @@ Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface 
 <div class='paper-box-text' markdown="1">
   
 DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection<br>
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf) | [Code](https://github.com/iefengyan/WPFormer)
+[Paper](https://ieeexplore.ieee.org/abstract/document/11078420) | [Code](https://github.com/iefengyan/DefectSAM)
   
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Mingliang Xu
 
