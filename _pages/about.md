@@ -62,7 +62,7 @@ DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection<b
 - <strong style="color:green"> By utilizing the simple yet efficient CER module, SED achieves a better trade-off between accuracy and performance for open-vocabulary semantic segmentation.</strong>
 </div>
 </div>
-- Feng Yan, Jiawei Cheng, Jian Feng, Yang Lu, Wenjie Zhang, Xiaoheng Jiang, Mingliang Xu.  Deviation capture networks for anomaly detection, Advanced Engineering Informatics, 2026. [[pdf]](https://www.sciencedirect.com/science/article/pii/S1474034625007797)
+- **Feng Yan**, Jiawei Cheng, Jian Feng, Yang Lu, Wenjie Zhang, Xiaoheng Jiang, Mingliang Xu.  Deviation capture networks for anomaly detection, Advanced Engineering Informatics, 2026. [[Pdf]](https://www.sciencedirect.com/science/article/pii/S1474034625007797)
 
 
 
