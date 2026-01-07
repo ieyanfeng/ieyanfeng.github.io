@@ -10,7 +10,7 @@
 
 <title>{{ site.title }}'s Personal Homepage</title>
 
-{% assign seo_description = page.description | default: page.excerpt | default: site.description | default: site.bio %}
+{% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
