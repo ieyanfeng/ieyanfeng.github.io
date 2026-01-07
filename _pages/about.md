@@ -58,7 +58,7 @@ redirect_from:
 <strong style="color:green">  </strong>
 </div>
 </div>
-- **Feng Yan**, Jiawei Cheng, Jian Feng, Yang Lu, Wenjie Zhang, Xiaoheng Jiang, Mingliang Xu.  Deviation capture networks for anomaly detection, Advanced Engineering Informatics, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1474034625007797)
+- **Feng Yan**, Jiawei Cheng, Jian Feng, Yang Lu, Wenjie Zhang, Xiaoheng Jiang, Mingliang Xu. Deviation capture networks for anomaly detection, Advanced Engineering Informatics, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1474034625007797)
 - **Feng Yan**, Xiaoheng Jiang, Yunxia Zhang, Yang Lu, Xiaofei Nan, Shuo He, Mingliang Xu.  Progressive Feature Enhancement Network for Surface Defect Segmentation, IEEE Transactions on Emerging Topics in Computational Intelligence, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10839057)
 
 
