@@ -30,7 +30,7 @@ Global Context Guided Refinement and Aggregation Network for Lightweight Surface
   
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Lisha Cui, Jiale Cao, Mingliang Xu
 
-- <strong style="color:green"> The proposed GCRANet is a lightweight model, which fully utilizes global guidance to highlight defect details and suppress background noise.</strong>
+- <strong style="color:green"> The proposed GCRANet is a lightweight model, which fully utilizes global guidance to highlight defect details and suppress background noise. a lightweight Depthwise Self-Attention (DSA) module with linear complexity is introduced to capture global information based on deep features. Furthermore, a Channel Cross-Attention (CCA) module is introduced to suppress background noise from multi-level features. </strong>
 </div>
 </div>
 
