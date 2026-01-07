@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Feng Yan"
   avatar           : "images/photo.jpg"
-  bio              : "I am currently a PhD student in Zhengzhou University. My research interest includes surface defect tection and salient object detection."
+  bio              : "I am currently a PhD student at Zhengzhou University. My research interests include surface defect detection and salient object detection."
   location         : "Zhengzhou, China"
   employer         :
   pubmed           : 
