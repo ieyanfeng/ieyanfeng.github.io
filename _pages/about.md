@@ -22,7 +22,7 @@ redirect_from:
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5</div><img src='images/GCRANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/GCRANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <strong style="color:green">Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection</strong> <br>
